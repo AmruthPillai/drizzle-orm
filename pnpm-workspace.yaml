@@ -13,6 +13,7 @@ onlyBuiltDependencies:
   - '@newrelic/native-metrics'
   - '@prisma/client'
   - '@prisma/engines'
+  - aws-sdk
   - better-sqlite3
   - bufferutil
   - cpu-features
@@ -21,6 +22,7 @@ onlyBuiltDependencies:
   - esbuild
   - prisma
   - protobufjs
+  - sharp
   - sqlite3
   - ssh2
   - utf-8-validate
